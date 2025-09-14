@@ -1,0 +1,17 @@
+p{
+    padding-left: 2em;
+}
+
+img{
+    display:block; margin:0 auto;
+}
+h1{
+    text-align: center
+}
+.underline{
+    text-decoration: underline;
+}
+.highlight{
+    color:#3498db;
+    font-weight:bold;
+}
